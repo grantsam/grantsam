@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>Hi, I'm <b>Grant Samuel Manurung</b> 👋</h3>
-  <p>Third-Year Informatics Engineering Student @ Universitas Negeri Surabaya</p>
+  <p>Third-Year Information System Student @ Universitas Negeri Surabaya</p>
 
   <!-- Quick badges -->
   <p>
